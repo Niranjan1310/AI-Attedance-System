@@ -4,6 +4,6 @@
 __pycache__/
 venv/
 .venv/
-.streamlit/secrets.toml
+.streamlit/
 dist/
 .DS_Store
