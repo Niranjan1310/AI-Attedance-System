@@ -1,6 +1,4 @@
-# 🎓 SnapClass — Smart AI Facial & Voice Attendance System
-
-![SnapClass Banner](https://i.ibb.co/YTYGn5qV/logo.png)
+# Smart AI Facial & Voice Attendance System
 
 SnapClass is an intelligent, automated attendance management application powered by **AI Facial Recognition** and **Voice Biometrics**. Designed for modern educational institutions, SnapClass empowers teachers to log classroom attendance in seconds using multi-face photo scanning or audio verification, while providing students with an effortless Face ID portal and real-time attendance analytics.
 
